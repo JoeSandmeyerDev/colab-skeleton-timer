@@ -1,0 +1,6 @@
+# Logs
+logs
+*.log
+
+# OS temp files
+.DS_Store
